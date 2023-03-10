@@ -1,20 +1,33 @@
 body {
-    background-color: rgb(176, 213, 255);
+    background-color: rgb(206, 183, 254);
   }
   
   h1 {
     color: white;
+    background-color:rgba(255, 255, 255, 0.2);
+    border: 2px solid rgb(255, 255, 255);
+    border-style: dashed;
+    border-style: dotted;
+  border-width: thick;
+ 
    
   }
+  /* CLASS */
   .center {
     text-align: center;
  }
 
- .fonte-verde {
-    color: green;
+ .fonte-branca {
+    color: rgb(255, 255, 255);
  }
+ /* ID */
   #para {
-        
-    font-family: verdana;
+    
+    font-family: Comic Sans MS, Comic Sans, 'cursive';
+    font-size: 20px;
+  }
+  p { 
+    color: white;
+    font-family: Comic Sans MS, Comic Sans, 'cursive';
     font-size: 20px;
   }
