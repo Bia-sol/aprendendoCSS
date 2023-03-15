@@ -1,17 +1,21 @@
 body {
-    background-color: rgb(206, 183, 254);
+    /*background-color: rgb(206, 183, 254);*/
+    background-image: url("https://www.awn.com/sites/default/files/styles/original/public/image/featured/1040162-giveaway-win-free-tickets-see-hayao-miyazakis-spirited-away.gif?itok=jQyJSei8");
   }
   
   h1 {
     color: white;
-    background-color:rgba(255, 255, 255, 0.2);
+    background-color:rgb(255, 255, 255,);
     border: 2px solid rgb(255, 255, 255);
     border-style: dashed;
     border-style: dotted;
   border-width: thick;
+  margin-left: 50px;
+  margin-right: 50px;
  
    
   }
+  
   /* CLASS */
   .center {
     text-align: center;
@@ -19,6 +23,13 @@ body {
 
  .fonte-branca {
     color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 2px 2px 50px 2px;
+    border-color:rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+
  }
  /* ID */
   #para {
